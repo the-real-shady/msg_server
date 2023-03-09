@@ -3,7 +3,7 @@ import threading
 import datetime
 
 # Define server constants
-HOST = "192.168.1.21"  # Your local ip
+HOST = ""  # Your local ip
 PORT = 5555
 ADDR = (HOST, PORT)
 FORMAT = 'utf-8'
